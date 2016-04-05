@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>org.narayan.springsec.app</groupId>
-	<artifactId>spring-sec-practice</artifactId>
+	<artifactId>spring-sec-learning</artifactId>
 	<version>1.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 
@@ -83,7 +83,7 @@
 
 
 	<build>
-		<finalName>spring-sec-practice</finalName>
+		<finalName>spring-sec-learning</finalName>
 
 		<plugins>
 
